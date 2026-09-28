@@ -13,7 +13,7 @@
 
 **👤 Student:** `MAITRAK KUNJADIA` &nbsp;|&nbsp; **🆔 Student ID:** `10015` &nbsp;|&nbsp; **📄 Set:** `A`
 
-**🎥 Video:** [`[PASTE-VIDEO-URL](https://www.loom.com/share/eb4c9a69e108496e93b66f9c67528500)`](PASTE-VIDEO-URL) &nbsp;|&nbsp; **⏱ Duration:** `3:00 HOURS`
+**🎥 Video:** (https://www.loom.com/share/eb4c9a69e108496e93b66f9c67528500) &nbsp;|&nbsp; **⏱ Duration:** `3:00 HOURS`
 
 </div>
 
